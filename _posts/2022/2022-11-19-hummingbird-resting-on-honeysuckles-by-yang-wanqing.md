@@ -13,7 +13,7 @@ tags:
 
 _Clarkesworld_ have published a lot of translated Chinese stories in recent years. Many of them have dealt with death in different ways and this does too. Translated by Jay Zhang.
 
-![](https://shortsfreviews.com/wp-content/uploads/2022/12/cw_194_800.jpg?w=518)
+![](/assets/images/cw_194_800.jpg)
 
 About 50 years in the future a technology exists that allows people to have their whole life recorded by a small flying drone resembling a hummingbird. The story is told by a mother who has lost her daughter to cancer at a young age. She ponders whether she should use the recordings of her daughters life to make a simulated recreation of her.
 

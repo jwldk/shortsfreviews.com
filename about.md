@@ -24,6 +24,6 @@ permalink: /about/
 [tangentonline.com](https://tangentonline.com/)\
 [sfrevu.com](http://sfrevu.com/)
 
-The site is built with [jekyll](https://github.com/jekyll/jekyll) and the [minima](https://github.com/jekyll/minima) theme.
+This site is built with [jekyll](https://github.com/jekyll/jekyll) and the [minima](https://github.com/jekyll/minima) theme.
 
 

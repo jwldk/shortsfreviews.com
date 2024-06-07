@@ -13,7 +13,7 @@ tags:
 
 This debut story had a setup that reminded me of "Welcome Home" by Jendayi Brooks-Flemister in _Asimov's January/February 2022_. In a dystopian future Ava is struggling raising her three children alone and she is under constant surveillance by the government. Even minor missteps might get her to lose custody of her kids. One day she gets an offer to relocate to a company owned small community town in Florida and she see no other option to accept.
 
-![](https://shortsfreviews.com/wp-content/uploads/2023/01/fsf0123.jpg?w=683)
+![](/assets/images/fsf0123.jpg)
 
 At her new home she meets with other families like herself and the staff that treats her and her kids well. Their basic needs are taken care of, the kids can go to a good school and everyone is helping one another in this small community. It is almost paradise. Ava barely has time to question the whole thing, but we as readers are just waiting for the catch or the twist. It has an overtone of everything being too good to be true.
 

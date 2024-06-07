@@ -10,7 +10,7 @@ This anthology was the last of the years best Donald A. Wollheim did before his 
 
 Sidenote - what is it with yearly anthologies and their names? This has 1990 in the title but covers stories from 1989. Other anthologies are just numbered, which doesn't help at all with figuring out which year it covers. For example, there exists a __The Best Science Fiction of the Year 6__, a __Year's Best SF 6__ and a __The Best Science Fiction of the Year Volume 6__ covering stories from the years 1976, 2000 and 2020. There must be a more userfriendly way to name these collections.
 
-![](https://shortsfreviews.com/wp-content/uploads/2023/10/wolheim1990.jpg?w=402)
+![](/assets/images/wolheim1990.jpg)
 
 With that little rant out of the way, the stories presented here are from highly regarded well established authors at the time - like Robert Silverberg and J. G. Ballard - and a few names that were relatively newcomers to the field - Lucius Shephard and Judith Moffett.
 
