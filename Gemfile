@@ -37,3 +37,5 @@ gem "jekyll-remote-theme", "~> 0.4.3"
 gem "jekyll-paginate", "~> 1.1"
 
 gem "jekyll-archives", "~> 2.2"
+
+gem "jekyll-sitemap", "~> 1.4"

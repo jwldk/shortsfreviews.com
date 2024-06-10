@@ -40,6 +40,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-sitemap
 
 remote_theme: jekyll/minima
 theme: minima
