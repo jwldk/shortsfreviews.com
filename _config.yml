@@ -54,7 +54,7 @@ header_pages:
   - archive.md
 
 feed:
-  path: /feed/
+  path: /feed/index.atom
   post_limit: 15
 
 jekyll-archives:
