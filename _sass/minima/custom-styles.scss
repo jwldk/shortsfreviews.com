@@ -13,4 +13,17 @@ hr {
     border: 0;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.post-tag {
+    margin-right: $spacing-unit / 2;
+}
+.post-list > li > h3 {
+    margin-bottom: 0px;
+}
+
+.post-list > li {
+    margin-bottom: 50px;
 }

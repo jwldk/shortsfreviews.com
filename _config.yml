@@ -31,7 +31,7 @@ url: "https://shortsfreviews.com" # the base hostname & protocol for your site, 
 permalink: /:year/:month/:day/:title/
 excerpt_separator: <!--more-->
 show_excerpts: true
-paginate: 15
+paginate: 10
 paginate_path: "/page/:num/"
 
 # Build settings
@@ -63,6 +63,7 @@ jekyll-archives:
   layout: tag
   permalinks:
     tag: '/tag/:name/'
+taglink: '/tag/:tag/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
