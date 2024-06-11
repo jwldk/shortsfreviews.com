@@ -7,4 +7,5 @@ _site/
 .bundle/
 vendor/
 deploy.sh
+template.md
 

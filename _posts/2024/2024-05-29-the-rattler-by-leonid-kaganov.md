@@ -1,6 +1,5 @@
 ---
 layout: post
-layout: post
 title: "The Rattler by Leonid Kaganov"
 date: "2024-05-29"
 categories:
