@@ -85,3 +85,7 @@ taglink: '/tag/:tag/'
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - template.md
+  - deploy.sh
+  - README.md
