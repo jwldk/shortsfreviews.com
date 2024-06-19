@@ -46,9 +46,9 @@ layout: base
   </div>
   {% endif %}
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+  <script data-isso="//comments.shortsfreviews.com/"
+          src="//comments.shortsfreviews.com/js/embed.min.js"></script>
+  <section id="isso-thread" style="margin-top: 20px;"></section>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
