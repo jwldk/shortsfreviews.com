@@ -22,6 +22,6 @@ Might be a slight spoiler, but there is no murderer per se, but Blaine uncovers 
 
 * * *
 
-Read in _Forever Magazine, March 2023_
+Read in _Forever Magazine, March 2023_\
 Originally published in _F&SF May/June 2021_\
 Rating: 2+
