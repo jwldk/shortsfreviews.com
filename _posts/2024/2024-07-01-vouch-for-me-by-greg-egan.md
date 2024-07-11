@@ -15,7 +15,7 @@ I always look forward to a new story by the Australian author Greg Egan and he d
 In a near future a virus leaves people with retrograde amnesia, which spurs a wealth of various technologies for recording your memories.
 The story dives into some interesting philosophical questions on the definition of personhood and how to securely transfer information about who you are to yourself.
 
-![Analog July/August 2024](/assets/images/AFF_JulAug2024_400x570.png)
+![Analog July/August 2024](/assets/images/AFF_JulAug2024_400x570.jpg)
 
 We follow Julia and her family, her husband Patrick and their Zoe, are all diagnosed with the virus HHV-10.
 It is dormant and has about 10% risk of activating in a given year, which will then induce retrograde amnesia.
