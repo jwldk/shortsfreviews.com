@@ -5,7 +5,7 @@ date: "2024-07-11"
 categories:
   - "reviews"
 tags:
-  - "2024"
+  - "2020s"
   - "asimovs"
   - "james-van-pelt"
   - "3"
@@ -22,7 +22,7 @@ He has some eye implants that adds an overlay to everything he sees, to basicall
 Like it will show good people as angels and whomever it decides to be bad people as devils.
 Things get complicated when he fancies a girl in class, whom his parents don't approve of.
 
-The whole concept of editorialising the physical world like that is frightening and kind of wished van Pelt unpacked this more, but what stands is a very touching and positive story on the powers of good teaching that goes beyond technology.
+The whole concept of editorialising the physical world like that is frightening and I kind of wished van Pelt unpacked this more, but what stands is a very touching and positive story on the powers of good teaching that goes beyond technology.
 
 * * *
 

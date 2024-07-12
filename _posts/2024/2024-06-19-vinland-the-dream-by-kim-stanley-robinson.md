@@ -20,7 +20,7 @@ This little stories explores some interesting ideas on the nature of history.
 
 The short story is structured like a scientific paper with sections named "Abstract", "Introduction", "Experimental Methods", "Discussion", "Conclusions" and "Acknowledgements".
 A professor in archaeology is finding evidence that the historical version of the vikings discovering [Vinland](https://en.wikipedia.org/wiki/Vinland) might be a very elaborate hoax.
-This concerns him greatly given that history as he knows it will have to be rewritten.
+This concerns him greatly given that history as he knows it, will have to be rewritten.
 
 However, his companion has a great quote that beautifully sums up the essence of this story:
 
