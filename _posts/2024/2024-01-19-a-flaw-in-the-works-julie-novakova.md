@@ -21,6 +21,6 @@ Everything is just masterly well written and a joy to read a story that doesn't 
 
 * * *
 
-Read in _Forever Magazine, December 2023_
+Read in _Forever Magazine, December 2023_\
 Originally published in _The Best of World SF: Volume 2_\
 Rating: 4+
