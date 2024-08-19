@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Direct Message by Tom Pike"
+title: "Direct Message by Tom R. Pike"
 date: "2023-01-26"
 categories:
   - "reviews"
@@ -8,7 +8,7 @@ tags:
   - "2020s"
   - "3"
   - "analog"
-  - "tom-pike"
+  - "tom-r-pike"
 ---
 
 A single tweet on Twitter can have massive impacts in the real world. This amusing little story begins with a poll on Twitter asking which region should be destroyed by a heat ray, with Appalachia "winning" by a large margin.
