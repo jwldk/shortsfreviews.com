@@ -9,6 +9,7 @@ tags:
   - "asimovs"
   - "galaxys-edge"
   - "nancy-kress"
+  - "3"
 ---
 
 This novella is about genemods which Kress more or less made her writing career on. In this story gene modifications are still in the early stages, but a rogue group have successfully modified babies with a gene that make them more empathic. What I found interesting with this story is the perspective it is told from. Not directly from those involved with the gene modifications, but here from a manager of an actress preparing for her role in a movie about the first kids with this empathic gene. This is what Kress does best with these kind of stories, telling it from a more indirect angle. Following the consequences of new developments in research rather than the actual inventions. As the story goes, the manager and the actress gets more directly involved as things spiral out of control.
