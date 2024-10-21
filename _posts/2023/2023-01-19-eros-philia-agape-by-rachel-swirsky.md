@@ -20,6 +20,6 @@ What I think works exceptionally well here is how it is told with various jumps 
 
 * * *
 
-Read in _Twenty-First Century Science Fiction_
+Read in _Twenty-First Century Science Fiction, edited by David G. Hartwell_\
 Read online at [Tor.com](https://www.tor.com/2009/03/03/eros-philia-agape/)\
 Rating: 4
