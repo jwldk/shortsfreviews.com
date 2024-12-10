@@ -26,4 +26,4 @@ permalink: /about/
 
 This site is built with [jekyll](https://github.com/jekyll/jekyll) and the [minima](https://github.com/jekyll/minima) theme.
 
-
+I also blog about films, in Danish, on [filmblog.sysctl.dk](https://filmblog.sysctl.dk)
