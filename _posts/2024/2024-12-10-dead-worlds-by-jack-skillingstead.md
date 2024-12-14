@@ -27,6 +27,6 @@ It is open-ended and open for interpretation, which sometimes can be really frus
 
 * * *
 
-Read in _Forever Magazine December 2024_\
+Read in _Forever Magazine, December 2024_\
 Originally published in _Asimov's June 2003_\
 Rating: 4
