@@ -24,5 +24,5 @@ Not much really happens, though we do get one dramatic story told by our protago
 There is also an interview with the author on the magazine's blog [From Earth to the Stars](https://fromearthtothestars.com/2024/12/20/qa-with-matthew-kressel/).
 * * *
 
-Read in _Asimov's January/February 2025\
+Read in _Asimov's January/February 2025_\
 Rating: 3

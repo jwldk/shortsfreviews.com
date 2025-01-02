@@ -20,6 +20,6 @@ It is a very tragic and sad story, but not overly so because Varley often writes
 
 * * *
 
-Read in _The John Varley Reader_
+Read in _The John Varley Reader_\
 Originally published in _Blue Champagne_\
 Rating: 4
