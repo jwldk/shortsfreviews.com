@@ -26,4 +26,6 @@ permalink: /about/
 
 This site is built with [jekyll](https://github.com/jekyll/jekyll) and the [minima](https://github.com/jekyll/minima) theme.
 
+I have a personal blog on [winther.sysctl.dk](https://winther.sysctl.dk)
+
 I also blog about films, in Danish, on [filmblog.sysctl.dk](https://filmblog.sysctl.dk)

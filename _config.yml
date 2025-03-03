@@ -30,7 +30,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shortsfreviews.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 excerpt_separator: <!--more-->
-show_excerpts: true
 paginate: 10
 paginate_path: "/page/:num/"
 
@@ -48,6 +47,7 @@ theme: minima
 minima:
   skin: auto
   date_format: "%B %-d, %Y"
+  show_excerpts: true
 
 header_pages:
   - about.md
