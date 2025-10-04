@@ -41,13 +41,17 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
 
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@65436a9442b6da1e871c8e83493db879c12e17a6"
 theme: minima
 
 minima:
   skin: auto
   date_format: "%B %-d, %Y"
   show_excerpts: true
+  nav_pages:
+    - about.md
+    - review-index.md
+    - archive.md
 
 header_pages:
   - about.md
